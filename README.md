@@ -1,6 +1,6 @@
 # Auth.js v5 with Google OAuth and MongoDB Tutorial
 
-This repository contains the complete code implementation for my Medium article demonstrating how to build a secure authentication system in Next.js applications using Auth.js v5 (formerly NextAuth.js) with Google OAuth and MongoDB integration.
+Hey there! 👋 This repo contains all the code for my [Medium article](https://medium.com/@furkan.ckmk/implementing-google-oauth-authentication-with-auth-js-setting-up-middleware-in-next-js-ffe536b86871) where I show you how to build a robust authentication system using Next.js 15, Auth.js (formerly NextAuth.js) v5, and MongoDB. I've put together a complete authentication flow with Google OAuth, protected routes, and proper middleware implementation that you can easily adapt for your own projects!
 
 ## Features
 
